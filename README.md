@@ -1,2 +1,2 @@
 # Convective-Archive-Fetcher
-A simple Golang tui tool utilizing tview to fetch convective outlooks for a specified date range
+A tui tool to fetch convective outlooks for a specified date range
